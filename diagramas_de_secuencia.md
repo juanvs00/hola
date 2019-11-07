@@ -1,0 +1,16 @@
+/home/i82vasaj/practica is/01_Listado_de_usuarios.png
+/home/i82vasaj/practica is/02_Añadir_usuario.png
+/home/i82vasaj/practica is/03_Agenda.png
+/home/i82vasaj/practica is/04_Ver_historial
+/home/i82vasaj/practica is/05_Editar_historial.png
+/home/i82vasaj/practica is/06_Ver_tratamiento.png
+/home/i82vasaj/practica is/07_Añadir_tratamiento.png
+/home/i82vasaj/practica is/08_Editar_tratamiento.png
+/home/i82vasaj/practica is/09_Borrar_tratamiento.png
+/home/i82vasaj/practica is/10_Buscar_usuario.png
+/home/i82vasaj/practica is/11_Datos_usuario.png
+/home/i82vasaj/practica is/12_Editar_usuario.png
+/home/i82vasaj/practica is/13_Borrar_usuario.png
+/home/i82vasaj/practica is/14_Añadir_cita.png
+/home/i82vasaj/practica is/15_Editar_cita.png
+/home/i82vasaj/practica is/16_Borrar_cita.png
